@@ -62,7 +62,7 @@ main {
 .popup_window p {
 	margin: 0;
 }
-#popup_block_1, #popup_block_2 {
+#popup_block_1, #popup_block_2, #popup_block_3 {
 	display: none;
 	position: absolute;
 	top: 0;
